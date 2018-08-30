@@ -1,0 +1,10 @@
+>jasmine .\anagram.spec.js
+
+Randomized with seed 17341
+Started
+...........
+
+
+11 specs, 0 failures
+Finished in 0.035 seconds
+Randomized with seed 17341 (jasmine --random=true --seed=17341)
