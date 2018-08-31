@@ -1,0 +1,10 @@
+> jasmine .\bob.spec.js
+
+Randomized with seed 06349
+Started
+.................
+
+
+17 specs, 0 failures
+Finished in 0.032 seconds
+Randomized with seed 06349 (jasmine --random=true --seed=06349)
