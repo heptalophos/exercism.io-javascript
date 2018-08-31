@@ -1,0 +1,10 @@
+> jasmine .\beer-song.spec.js
+
+Randomized with seed 63334
+Started
+......
+
+
+6 specs, 0 failures
+Finished in 0.02 seconds
+Randomized with seed 63334 (jasmine --random=true --seed=63334)
